@@ -1,0 +1,12 @@
+mysql-connector-python-rf
+pymongo
+langchain
+langchain-community
+pinecone-client
+python-dotenv
+sentence-transformers
+openai
+pinecone-client
+influxdb-client
+neo4j
+redis
